@@ -5,7 +5,7 @@
 	"Deps": [
 		{
 			"ImportPath": "github.com/jbowles/nlpt-cld2",
-			"Rev": "978602921e9183556f228f43ee4c826f7eda8f49f"
+			"Rev": "78602921e9183556f228f43ee4c826f7eda8f49f"
 		}
 	]
 }
